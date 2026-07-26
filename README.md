@@ -1,30 +1,97 @@
-# Jannik Agethen
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg" />
+    <img src="./assets/profile-header.svg" width="100%" alt="Jannik Agethen builds evidence-first developer tools that turn change into reviewable signal." />
+  </picture>
+</p>
 
-I build evidence-first developer tools and practical AI systems.
+<p align="center">
+  <a href="https://github.com/derprofi1313/signal-scout/releases/tag/v0.2.0"><img alt="Signal Scout release v0.2.0" src="https://img.shields.io/badge/Signal_Scout-v0.2.0-FF5FA2?style=flat-square&amp;labelColor=101625" /></a>
+  <a href="https://github.com/derprofi1313/signal-scout/actions/workflows/ci.yml"><img alt="Signal Scout CI status" src="https://github.com/derprofi1313/signal-scout/actions/workflows/ci.yml/badge.svg" /></a>
+  <a href="https://github.com/derprofi1313/signal-scout/actions/workflows/codeql.yml"><img alt="Signal Scout CodeQL status" src="https://github.com/derprofi1313/signal-scout/actions/workflows/codeql.yml/badge.svg" /></a>
+</p>
 
-## Featured work
+## 🚀 About me
 
-### [Signal Scout](https://github.com/derprofi1313/signal-scout)
+I build evidence-first developer tools and practical AI systems. My current
+open-source focus is **Signal Scout**: a Git-native way to turn public-page
+changes into reviewable evidence.
 
-Git-native evidence CI for changes on public competitor pages. Signal Scout
-captures reviewable before/after evidence, keeps side effects explicit, and now
-runs as a first-party GitHub Action:
+- I prefer a working vertical slice over a disconnected demo.
+- I keep network and repository side effects explicit.
+- I ship small releases with tests, reproducible artifacts, and honest limits.
+
+> **Evidence before claims. Review before side effects.**
+
+## 🛰️ Featured signal — [Signal Scout](https://github.com/derprofi1313/signal-scout)
+
+Signal Scout captures a baseline, detects an exact change, and preserves the
+result as a deterministic `signal-scout/evidence@1` packet. The same scanner
+runs locally or as a first-party Node 24 GitHub Action:
 
 ```yaml
 - uses: derprofi1313/signal-scout@v0.2.0
+  with:
+    config: signal-scout.config.json
 ```
 
-- Deterministic `signal-scout/evidence@1` packets with hashes and exact diffs
-- Local CLI and committed Node 24 GitHub Action bundle
-- Caller-owned cache, artifact, notification, commit, and pull-request steps
-- Tested desktop/mobile UI, reproducible builds, CI, and CodeQL
+- Exact before/after evidence with hashes and bounded metadata
+- Caller-owned cache, artifacts, notifications, commits, and pull requests
+- Reproducible Action bundle, CI, CodeQL, and desktop/mobile verification
 
-[Read the Action guide](https://github.com/derprofi1313/signal-scout#github-action)
-· [Open the v0.2.0 release](https://github.com/derprofi1313/signal-scout/releases/tag/v0.2.0)
+[Action guide](https://github.com/derprofi1313/signal-scout#github-action)
+· [v0.2.0 release](https://github.com/derprofi1313/signal-scout/releases/tag/v0.2.0)
+· [Evidence schema](https://github.com/derprofi1313/signal-scout/blob/main/signal-scout.schema.json)
 
-## How I build
+## 🧰 Working stack
 
-- Evidence before claims
-- Explicit boundaries for network and repository side effects
-- Small, reviewable releases with tests and reproducible artifacts
-- Useful vertical slices instead of disconnected demos
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-101625?style=for-the-badge&amp;logo=typescript&amp;logoColor=47D7FF" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-101625?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=7EE2B8" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-101625?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=F4F7FB" />
+  <img alt="React" src="https://img.shields.io/badge/React-101625?style=for-the-badge&amp;logo=react&amp;logoColor=47D7FF" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-101625?style=for-the-badge&amp;logo=githubactions&amp;logoColor=A78BFA" />
+  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-101625?style=for-the-badge&amp;logo=vitest&amp;logoColor=F3C969" />
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-101625?style=for-the-badge&amp;logo=playwright&amp;logoColor=7EE2B8" />
+  <img alt="pnpm" src="https://img.shields.io/badge/pnpm-101625?style=for-the-badge&amp;logo=pnpm&amp;logoColor=F3C969" />
+</p>
+
+## 📊 Public GitHub snapshot
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile-stats-mobile.svg" />
+    <img src="./assets/profile-stats.svg" width="100%" alt="Visual companion to the current public GitHub snapshot written below." />
+  </picture>
+</p>
+
+<sub>Generated weekly from the public GitHub GraphQL API by a tested,
+repository-owned renderer — no profile-view counter and no third-party stats
+card.</sub>
+
+<!-- profile-data:start -->
+**Current public snapshot:** 13 owned non-fork repositories · 6 stars · 53 contributions in the rolling 12 months. Generated 2026-07-26 from public GitHub data.
+<!-- profile-data:end -->
+
+## ▰ Contribution signal
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/contribution-signal-mobile.svg" />
+    <img src="./assets/contribution-signal.svg" width="100%" alt="Visual contribution activity chart; the current rolling total is stated in text above." />
+  </picture>
+</p>
+
+<sub>The desktop view shows individual days; the mobile view groups the same
+public activity by month for legibility. GitHub's native activity timeline
+remains available below this README.</sub>
+
+## 🧭 How I build
+
+- **Source it:** preserve the input and distinguish verified facts from open work.
+- **Bound it:** make permissions, network calls, and write operations visible.
+- **Prove it:** test the real path and publish artifacts others can inspect.
+
+<p align="center">
+  <code>capture → hash → diff → review</code>
+</p>
