@@ -19,6 +19,7 @@ const PROFILE_QUERY = `
           endCursor
         }
         nodes {
+          isArchived
           isFork
           stargazerCount
           languages(first: 100, orderBy: { field: SIZE, direction: DESC }) {
@@ -165,6 +166,7 @@ function normalizeContributionsCollection(collection = {}) {
 
 function normalizeRepository(repository) {
   return {
+    isArchived: Boolean(repository?.isArchived),
     isFork: Boolean(repository?.isFork),
     stargazerCount: safeCount(repository?.stargazerCount),
     languages: {
@@ -176,7 +178,7 @@ function normalizeRepository(repository) {
 export function summarizeProfile(profile) {
   const repositories = asArray(profile.repositories?.nodes)
     .map(normalizeRepository)
-    .filter((repository) => !repository.isFork);
+    .filter((repository) => !repository.isArchived && !repository.isFork);
   const languageSizes = new Map();
 
   for (const repository of repositories) {
@@ -795,6 +797,10 @@ function validateRepositoryNode(repository) {
 
   if (typeof repository.isFork !== "boolean") {
     throw new Error("GitHub GraphQL returned an invalid repository fork flag");
+  }
+
+  if (typeof repository.isArchived !== "boolean") {
+    throw new Error("GitHub GraphQL returned an invalid repository archive flag");
   }
 
   requirePublicCount(repository.stargazerCount, "repository star count");

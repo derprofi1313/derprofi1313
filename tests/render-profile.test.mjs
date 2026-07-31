@@ -17,6 +17,7 @@ const profileFixture = {
   repositories: {
     nodes: [
       {
+        isArchived: false,
         isFork: false,
         stargazerCount: 5,
         languages: {
@@ -27,6 +28,7 @@ const profileFixture = {
         },
       },
       {
+        isArchived: false,
         isFork: false,
         stargazerCount: 2,
         languages: {
@@ -37,10 +39,19 @@ const profileFixture = {
         },
       },
       {
+        isArchived: false,
         isFork: true,
         stargazerCount: 99,
         languages: {
           edges: [{ size: 9_999, node: { name: "Forked" } }],
+        },
+      },
+      {
+        isArchived: true,
+        isFork: false,
+        stargazerCount: 88,
+        languages: {
+          edges: [{ size: 8_888, node: { name: "Archived" } }],
         },
       },
     ],
@@ -98,7 +109,7 @@ test("escapeXml neutralizes data before it enters an SVG", () => {
   );
 });
 
-test("summarizeProfile counts only owned, non-fork public work", () => {
+test("summarizeProfile counts only active, owned, non-fork public work", () => {
   const summary = summarizeProfile(profileFixture);
 
   assert.equal(summary.repositoryCount, 2);
@@ -117,6 +128,7 @@ test("summarizeProfile normalizes malformed public API counts", () => {
     repositories: {
       nodes: [
         {
+          isArchived: false,
           isFork: false,
           stargazerCount: "4",
           languages: {
@@ -128,6 +140,7 @@ test("summarizeProfile normalizes malformed public API counts", () => {
           },
         },
         {
+          isArchived: false,
           isFork: false,
           stargazerCount: "not-a-number",
           languages: { edges: "malformed" },
@@ -276,6 +289,7 @@ test("fetchProfile collects paginated repositories defensively", async () => {
       pageInfo: { hasNextPage: true, endCursor: "next" },
       nodes: [
         {
+          isArchived: false,
           isFork: false,
           stargazerCount: 1,
           languages: { edges: [] },
@@ -285,6 +299,7 @@ test("fetchProfile collects paginated repositories defensively", async () => {
     publicApiProfilePayload({
       nodes: [
         {
+          isArchived: false,
           isFork: false,
           stargazerCount: 2,
           languages: { edges: [] },
@@ -338,6 +353,7 @@ test("fetchProfile rejects malformed factual counts", async () => {
       json: async () => publicApiProfilePayload({
         nodes: [
           {
+            isArchived: false,
             isFork: false,
             stargazerCount: "5",
             languages: { edges: [] },
