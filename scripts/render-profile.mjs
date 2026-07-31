@@ -84,16 +84,105 @@ function formatNumber(value) {
   return new Intl.NumberFormat("en-US").format(value);
 }
 
-export function summarizeProfile(profile) {
-  const repositories = (profile.repositories?.nodes ?? []).filter(
-    (repository) => repository && !repository.isFork,
+function asArray(value) {
+  return Array.isArray(value) ? value : [];
+}
+
+function safeCount(value) {
+  const count = Number(value);
+
+  if (!Number.isFinite(count) || count <= 0) {
+    return 0;
+  }
+
+  return Math.trunc(count);
+}
+
+function safeWeekday(value, fallbackDate) {
+  const weekday = Number(value);
+
+  if (Number.isInteger(weekday) && weekday >= 0 && weekday <= 6) {
+    return weekday;
+  }
+
+  const parsed = new Date(`${fallbackDate}T00:00:00Z`);
+
+  return Number.isNaN(parsed.getTime()) ? 0 : parsed.getUTCDay();
+}
+
+function normalizeContributionDay(day) {
+  const fallbackDate = "1970-01-01";
+  const date =
+    typeof day?.date === "string" && /^\d{4}-\d{2}-\d{2}$/.test(day.date)
+      ? day.date
+      : fallbackDate;
+
+  return {
+    contributionCount: safeCount(day?.contributionCount),
+    date,
+    weekday: safeWeekday(day?.weekday, date),
+  };
+}
+
+export function normalizeContributionCalendar(calendar = {}) {
+  const weeks = asArray(calendar.weeks).map((week) => ({
+    contributionDays: asArray(week?.contributionDays).map(normalizeContributionDay),
+  }));
+  const computedTotal = weeks.reduce(
+    (weekTotal, week) =>
+      weekTotal +
+      week.contributionDays.reduce(
+        (dayTotal, day) => dayTotal + day.contributionCount,
+        0,
+      ),
+    0,
   );
+  const totalContributions = safeCount(calendar.totalContributions);
+
+  return {
+    totalContributions:
+      totalContributions > 0 || computedTotal === 0
+        ? totalContributions
+        : computedTotal,
+    weeks,
+  };
+}
+
+function normalizeContributionsCollection(collection = {}) {
+  const contributionCalendar = normalizeContributionCalendar(
+    collection.contributionCalendar,
+  );
+
+  return {
+    totalCommitContributions: safeCount(collection.totalCommitContributions),
+    totalIssueContributions: safeCount(collection.totalIssueContributions),
+    totalPullRequestContributions: safeCount(
+      collection.totalPullRequestContributions,
+    ),
+    contributionCalendar,
+  };
+}
+
+function normalizeRepository(repository) {
+  return {
+    isFork: Boolean(repository?.isFork),
+    stargazerCount: safeCount(repository?.stargazerCount),
+    languages: {
+      edges: asArray(repository?.languages?.edges),
+    },
+  };
+}
+
+export function summarizeProfile(profile) {
+  const repositories = asArray(profile.repositories?.nodes)
+    .map(normalizeRepository)
+    .filter((repository) => !repository.isFork);
   const languageSizes = new Map();
 
   for (const repository of repositories) {
-    for (const edge of repository.languages?.edges ?? []) {
+    for (const edge of asArray(repository.languages?.edges)) {
       const name = edge?.node?.name;
-      const size = Number(edge?.size ?? 0);
+      const size = safeCount(edge?.size);
 
       if (!name || !Number.isFinite(size) || size <= 0) {
         continue;
@@ -115,25 +204,20 @@ export function summarizeProfile(profile) {
       percentage:
         languageTotal === 0 ? 0 : roundPercentage((size / languageTotal) * 100),
     }));
-  const contributions = profile.contributionsCollection ?? {};
+  const contributions = normalizeContributionsCollection(
+    profile.contributionsCollection,
+  );
 
   return {
     repositoryCount: repositories.length,
     starCount: repositories.reduce(
-      (total, repository) =>
-        total + Number(repository.stargazerCount ?? 0),
+      (total, repository) => total + repository.stargazerCount,
       0,
     ),
-    totalContributions: Number(
-      contributions.contributionCalendar?.totalContributions ?? 0,
-    ),
-    commitContributions: Number(
-      contributions.totalCommitContributions ?? 0,
-    ),
-    issueContributions: Number(contributions.totalIssueContributions ?? 0),
-    pullRequestContributions: Number(
-      contributions.totalPullRequestContributions ?? 0,
-    ),
+    totalContributions: contributions.contributionCalendar.totalContributions,
+    commitContributions: contributions.totalCommitContributions,
+    issueContributions: contributions.totalIssueContributions,
+    pullRequestContributions: contributions.totalPullRequestContributions,
     languages,
   };
 }
@@ -421,10 +505,11 @@ export function renderContributionSvg(
   generatedOn,
   user = DEFAULT_USER,
 ) {
-  const weeks = (calendar.weeks ?? []).slice(-53);
-  const days = weeks.flatMap((week) => week.contributionDays ?? []);
+  const normalizedCalendar = normalizeContributionCalendar(calendar);
+  const weeks = normalizedCalendar.weeks.slice(-53);
+  const days = weeks.flatMap((week) => week.contributionDays);
   const maximum = days.reduce(
-    (current, day) => Math.max(current, day.contributionCount ?? 0),
+    (current, day) => Math.max(current, day.contributionCount),
     0,
   );
   const cellSize = 14;
@@ -433,8 +518,8 @@ export function renderContributionSvg(
   const startY = 119;
   const cells = weeks
     .flatMap((week, weekIndex) =>
-      (week.contributionDays ?? []).map((day) => {
-        const count = Number(day.contributionCount ?? 0);
+      week.contributionDays.map((day) => {
+        const count = day.contributionCount;
         const x = startX + weekIndex * pitch;
         const y = startY + Number(day.weekday ?? 0) * pitch;
         const level = contributionLevel(count, maximum);
@@ -448,7 +533,7 @@ export function renderContributionSvg(
   let lastLabelIndex = -4;
   const monthLabels = weeks
     .map((week, weekIndex) => {
-      const anchor = (week.contributionDays ?? [])[0];
+      const anchor = week.contributionDays[0];
       const currentMonth = anchor?.date?.slice(0, 7) ?? "";
 
       if (
@@ -465,7 +550,7 @@ export function renderContributionSvg(
       return `<text x="${startX + weekIndex * pitch}" y="101" class="month">${monthLabel(anchor.date)}</text>`;
     })
     .join("\n    ");
-  const total = Number(calendar.totalContributions ?? 0);
+  const total = normalizedCalendar.totalContributions;
 
   return cleanSvg(`<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1160" height="300" viewBox="0 0 1160 300" role="img" aria-labelledby="title desc">
@@ -509,11 +594,12 @@ export function renderContributionSvg(
 }
 
 function monthlyContributionTotals(calendar) {
+  const normalizedCalendar = normalizeContributionCalendar(calendar);
   const totals = new Map();
 
-  for (const week of calendar.weeks ?? []) {
-    for (const day of week.contributionDays ?? []) {
-      const key = day.date?.slice(0, 7);
+  for (const week of normalizedCalendar.weeks) {
+    for (const day of week.contributionDays) {
+      const key = day.date.slice(0, 7);
 
       if (!key) {
         continue;
@@ -535,8 +621,9 @@ export function renderContributionMobileSvg(
   generatedOn,
   user = DEFAULT_USER,
 ) {
-  const months = monthlyContributionTotals(calendar);
-  const total = Number(calendar.totalContributions ?? 0);
+  const normalizedCalendar = normalizeContributionCalendar(calendar);
+  const months = monthlyContributionTotals(normalizedCalendar);
+  const total = normalizedCalendar.totalContributions;
   const maximum = months.reduce(
     (current, month) => Math.max(current, month.count),
     0,
@@ -626,13 +713,119 @@ ${SNAPSHOT_END}`;
   return `${readme.slice(0, start)}${block}${readme.slice(end + SNAPSHOT_END.length)}`;
 }
 
-async function fetchProfile(login, token) {
+function requirePublicCount(value, label) {
+  if (!Number.isSafeInteger(value) || value < 0) {
+    throw new Error(`GitHub GraphQL returned an invalid ${label}`);
+  }
+
+  return value;
+}
+
+function validateContributionCalendar(calendar) {
+  if (!calendar || typeof calendar !== "object") {
+    throw new Error(
+      "GitHub GraphQL returned an invalid contribution calendar shape",
+    );
+  }
+
+  requirePublicCount(
+    calendar.totalContributions,
+    "contribution total",
+  );
+
+  if (!Array.isArray(calendar.weeks)) {
+    throw new Error("GitHub GraphQL returned invalid contribution weeks");
+  }
+
+  for (const week of calendar.weeks) {
+    if (!week || !Array.isArray(week.contributionDays)) {
+      throw new Error("GitHub GraphQL returned invalid contribution days");
+    }
+
+    for (const day of week.contributionDays) {
+      requirePublicCount(day?.contributionCount, "daily contribution count");
+
+      if (
+        typeof day?.date !== "string" ||
+        !/^\d{4}-\d{2}-\d{2}$/.test(day.date) ||
+        Number.isNaN(new Date(`${day.date}T00:00:00Z`).getTime())
+      ) {
+        throw new Error("GitHub GraphQL returned an invalid contribution date");
+      }
+
+      if (
+        !Number.isInteger(day.weekday) ||
+        day.weekday < 0 ||
+        day.weekday > 6
+      ) {
+        throw new Error(
+          "GitHub GraphQL returned an invalid contribution weekday",
+        );
+      }
+    }
+  }
+}
+
+function validateContributionsCollection(collection) {
+  if (!collection || typeof collection !== "object") {
+    throw new Error(
+      "GitHub GraphQL returned an invalid contributions collection",
+    );
+  }
+
+  requirePublicCount(
+    collection.totalCommitContributions,
+    "commit contribution count",
+  );
+  requirePublicCount(
+    collection.totalIssueContributions,
+    "issue contribution count",
+  );
+  requirePublicCount(
+    collection.totalPullRequestContributions,
+    "pull-request contribution count",
+  );
+  validateContributionCalendar(collection.contributionCalendar);
+}
+
+function validateRepositoryNode(repository) {
+  if (!repository || typeof repository !== "object") {
+    throw new Error("GitHub GraphQL returned an invalid repository node");
+  }
+
+  if (typeof repository.isFork !== "boolean") {
+    throw new Error("GitHub GraphQL returned an invalid repository fork flag");
+  }
+
+  requirePublicCount(repository.stargazerCount, "repository star count");
+
+  if (!repository.languages || !Array.isArray(repository.languages.edges)) {
+    throw new Error("GitHub GraphQL returned an invalid repository language shape");
+  }
+
+  for (const edge of repository.languages.edges) {
+    requirePublicCount(edge?.size, "repository language size");
+
+    if (typeof edge?.node?.name !== "string" || edge.node.name.length === 0) {
+      throw new Error("GitHub GraphQL returned an invalid language name");
+    }
+  }
+}
+
+export async function fetchProfile(login, token, fetcher = fetch) {
   const repositories = [];
   let profile;
   let cursor = null;
+  let page = 0;
 
   do {
-    const response = await fetch(GRAPHQL_ENDPOINT, {
+    page += 1;
+
+    if (page > 50) {
+      throw new Error("GitHub GraphQL pagination exceeded the safety limit");
+    }
+
+    const response = await fetcher(GRAPHQL_ENDPOINT, {
       method: "POST",
       headers: {
         Accept: "application/vnd.github+json",
@@ -647,13 +840,35 @@ async function fetchProfile(login, token) {
       }),
     });
 
+    if (!response || typeof response !== "object") {
+      throw new Error("GitHub GraphQL returned an invalid network response");
+    }
+
     if (!response.ok) {
       throw new Error(
         `GitHub GraphQL request failed: ${response.status} ${response.statusText}`,
       );
     }
 
-    const payload = await response.json();
+    if (typeof response.json !== "function") {
+      throw new Error("GitHub GraphQL response cannot be decoded as JSON");
+    }
+
+    let payload;
+
+    try {
+      payload = await response.json();
+    } catch (error) {
+      throw new Error(
+        `GitHub GraphQL response was not valid JSON: ${
+          error instanceof Error ? error.message : String(error)
+        }`,
+      );
+    }
+
+    if (!payload || typeof payload !== "object") {
+      throw new Error("GitHub GraphQL returned an invalid payload shape");
+    }
 
     if (payload.errors?.length) {
       throw new Error(
@@ -667,10 +882,45 @@ async function fetchProfile(login, token) {
       throw new Error(`GitHub user "${login}" was not found`);
     }
 
-    profile ??= payload.data.user;
-    repositories.push(...(payload.data.user.repositories.nodes ?? []));
+    const user = payload.data.user;
+    const repositoryConnection = user.repositories;
+
+    if (!repositoryConnection || typeof repositoryConnection !== "object") {
+      throw new Error("GitHub GraphQL returned an invalid repositories shape");
+    }
+
+    if (!Array.isArray(repositoryConnection.nodes)) {
+      throw new Error("GitHub GraphQL returned invalid repository nodes");
+    }
+
+    for (const repository of repositoryConnection.nodes) {
+      validateRepositoryNode(repository);
+    }
+
+    validateContributionsCollection(user.contributionsCollection);
+
+    profile ??= user;
+    repositories.push(...repositoryConnection.nodes);
     const pageInfo = payload.data.user.repositories.pageInfo;
-    cursor = pageInfo?.hasNextPage ? pageInfo.endCursor : null;
+
+    if (
+      !pageInfo ||
+      typeof pageInfo !== "object" ||
+      typeof pageInfo.hasNextPage !== "boolean"
+    ) {
+      throw new Error("GitHub GraphQL returned invalid repository pagination");
+    }
+
+    if (
+      pageInfo.hasNextPage &&
+      (typeof pageInfo.endCursor !== "string" || pageInfo.endCursor.length === 0)
+    ) {
+      throw new Error(
+        "GitHub GraphQL pagination indicated another page without an end cursor",
+      );
+    }
+
+    cursor = pageInfo.hasNextPage ? pageInfo.endCursor : null;
   } while (cursor);
 
   return {
@@ -679,6 +929,7 @@ async function fetchProfile(login, token) {
       ...profile.repositories,
       nodes: repositories,
     },
+    contributionsCollection: profile.contributionsCollection,
   };
 }
 

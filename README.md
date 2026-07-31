@@ -43,6 +43,26 @@ runs locally or as a first-party Node 24 GitHub Action:
 · [v0.2.0 release](https://github.com/derprofi1313/signal-scout/releases/tag/v0.2.0)
 · [Evidence schema](https://github.com/derprofi1313/signal-scout/blob/main/signal-scout.schema.json)
 
+## Proof project — [Cash-Claw](https://github.com/derprofi1313/cash-claw)
+
+Cash-Claw is a public MIT-licensed autonomous-agent project built on OpenClaw.
+At inspection time on 2026-07-31, the repository showed 5 GitHub stars. I treat
+it as proof of architecture and implementation surface, not a revenue claim.
+
+- Local-first gateway with REST, WebSocket, and dashboard surfaces
+- Operator setup for LLM providers, chat channels, Stripe, limits, and sandboxing
+- Security docs covering loopback binding, auth tokens, redaction, and Docker isolation
+
+[Repository](https://github.com/derprofi1313/cash-claw)
+· [Security policy](https://github.com/derprofi1313/cash-claw/security/policy)
+· [MIT license](https://github.com/derprofi1313/cash-claw/blob/main/LICENSE)
+
+## Contribution and contact
+
+- Review project direction through [Signal Scout issues](https://github.com/derprofi1313/signal-scout/issues).
+- Discuss Cash-Claw changes through [Cash-Claw issues](https://github.com/derprofi1313/cash-claw/issues).
+- Reach me through my [GitHub profile](https://github.com/derprofi1313).
+
 ## 🧰 Working stack
 
 <p>

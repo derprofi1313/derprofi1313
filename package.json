@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "render": "node scripts/render-profile.mjs",
+    "validate:output": "node scripts/validate-profile-output.mjs",
     "test": "node --test"
   },
   "engines": {
