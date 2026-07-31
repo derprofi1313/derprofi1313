@@ -69,6 +69,17 @@ it as proof of architecture and implementation surface, not a revenue claim.
   a clearly attributed maintained derivative of
   [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS),
   with corrected CLI documentation and a CPU-safe CI gate.
+- [macOS Malware Incident Evidence](https://github.com/derprofi1313/mac-malware-incident-2026-06-11)
+  — an inert incident-response evidence set with a cryptographic manifest,
+  non-executing integrity CI, publication limits, and safe-handling guidance.
+- [Roblox Luau Service Examples](https://github.com/derprofi1313/My-code-examples)
+  — server-authoritative gameplay modules with finite-value and target
+  validation, exact-once async signal semantics, compile checks, and regression
+  tests.
+- [Desktop AI Agent 2](https://github.com/derprofi1313/Desktop-AI-Agent2) — a
+  host-integrated React source snapshot with deterministic model-action
+  validation, explicit side-effect confirmations, and a restrictive embedded
+  browser policy.
 
 ## Contribution and contact
 
@@ -83,6 +94,8 @@ it as proof of architecture and implementation surface, not a revenue claim.
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-101625?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=7EE2B8" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-101625?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=F4F7FB" />
   <img alt="React" src="https://img.shields.io/badge/React-101625?style=for-the-badge&amp;logo=react&amp;logoColor=47D7FF" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-101625?style=for-the-badge&amp;logo=python&amp;logoColor=F3C969" />
+  <img alt="Luau" src="https://img.shields.io/badge/Luau-101625?style=for-the-badge&amp;logo=robloxstudio&amp;logoColor=7EE2B8" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-101625?style=for-the-badge&amp;logo=githubactions&amp;logoColor=A78BFA" />
   <img alt="Vitest" src="https://img.shields.io/badge/Vitest-101625?style=for-the-badge&amp;logo=vitest&amp;logoColor=F3C969" />
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-101625?style=for-the-badge&amp;logo=playwright&amp;logoColor=7EE2B8" />
