@@ -57,6 +57,19 @@ it as proof of architecture and implementation surface, not a revenue claim.
 · [Security policy](https://github.com/derprofi1313/cash-claw/security/policy)
 · [MIT license](https://github.com/derprofi1313/cash-claw/blob/main/LICENSE)
 
+## More verified work
+
+- [RepoPilot-OSS](https://github.com/derprofi1313/RepoPilot-OSS) — a TypeScript
+  repository-analysis CLI with provider credential redaction, a real ESLint
+  gate, Node 22/24 CI, and 253 passing tests.
+- [Hermes Trading Sandbox](https://github.com/derprofi1313/hermes-trading-sandbox)
+  — a Python paper-trading service with fail-closed LAN admin controls, pinned
+  CI, and an honestly reported suite of 97 passing and 16 skipped tests.
+- [OBLITERATUS GLM-5.2](https://github.com/derprofi1313/OBLITERATUS-glm52) —
+  a clearly attributed maintained derivative of
+  [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS),
+  with corrected CLI documentation and a CPU-safe CI gate.
+
 ## Contribution and contact
 
 - Review project direction through [Signal Scout issues](https://github.com/derprofi1313/signal-scout/issues).
