@@ -28,7 +28,7 @@
         <g>
           <rect x="52.00" y="494.00" width="33.23" height="4.00" rx="8" fill="url(#mobileBar)" opacity="0.28"/>
           <text x="68.62" y="482.00" text-anchor="middle" class="count">0</text>
-          <text x="68.62" y="532" text-anchor="middle" class="month">Aug ’25</text>
+          <text x="68.62" y="532" text-anchor="middle" class="month">Sep ’25</text>
         </g>
         <g>
           <rect x="97.23" y="494.00" width="33.23" height="4.00" rx="8" fill="url(#mobileBar)" opacity="0.28"/>
@@ -38,7 +38,7 @@
         <g>
           <rect x="142.46" y="494.00" width="33.23" height="4.00" rx="8" fill="url(#mobileBar)" opacity="0.28"/>
           <text x="159.08" y="482.00" text-anchor="middle" class="count">0</text>
-          <text x="159.08" y="532" text-anchor="middle" class="month">Oct</text>
+          <text x="159.08" y="532" text-anchor="middle" class="month">Nov</text>
         </g>
         <g>
           <rect x="187.69" y="494.00" width="33.23" height="4.00" rx="8" fill="url(#mobileBar)" opacity="0.28"/>
@@ -46,49 +46,49 @@
           <text x="204.31" y="532" text-anchor="middle" class="month"></text>
         </g>
         <g>
-          <rect x="232.92" y="494.00" width="33.23" height="4.00" rx="8" fill="url(#mobileBar)" opacity="0.28"/>
-          <text x="249.54" y="482.00" text-anchor="middle" class="count">0</text>
-          <text x="249.54" y="532" text-anchor="middle" class="month">Dec</text>
+          <rect x="232.92" y="486.08" width="33.23" height="11.92" rx="8" fill="url(#mobileBar)" opacity="1"/>
+          <text x="249.54" y="474.08" text-anchor="middle" class="count">2</text>
+          <text x="249.54" y="532" text-anchor="middle" class="month">Jan ’26</text>
         </g>
         <g>
-          <rect x="278.15" y="486.08" width="33.23" height="11.92" rx="8" fill="url(#mobileBar)" opacity="1"/>
-          <text x="294.77" y="474.08" text-anchor="middle" class="count">2</text>
-          <text x="294.77" y="532" text-anchor="middle" class="month">Jan ’26</text>
+          <rect x="278.15" y="488.00" width="33.23" height="10.00" rx="8" fill="url(#mobileBar)" opacity="1"/>
+          <text x="294.77" y="476.00" text-anchor="middle" class="count">1</text>
+          <text x="294.77" y="532" text-anchor="middle" class="month"></text>
         </g>
         <g>
-          <rect x="323.38" y="488.00" width="33.23" height="10.00" rx="8" fill="url(#mobileBar)" opacity="1"/>
-          <text x="340.00" y="476.00" text-anchor="middle" class="count">1</text>
-          <text x="340.00" y="532" text-anchor="middle" class="month">Feb</text>
+          <rect x="323.38" y="474.16" width="33.23" height="23.84" rx="8" fill="url(#mobileBar)" opacity="1"/>
+          <text x="340.00" y="462.16" text-anchor="middle" class="count">4</text>
+          <text x="340.00" y="532" text-anchor="middle" class="month">Mar</text>
         </g>
         <g>
-          <rect x="368.62" y="474.16" width="33.23" height="23.84" rx="8" fill="url(#mobileBar)" opacity="1"/>
-          <text x="385.23" y="462.16" text-anchor="middle" class="count">4</text>
+          <rect x="368.62" y="444.37" width="33.23" height="53.63" rx="8" fill="url(#mobileBar)" opacity="1"/>
+          <text x="385.23" y="432.37" text-anchor="middle" class="count">9</text>
           <text x="385.23" y="532" text-anchor="middle" class="month"></text>
         </g>
         <g>
-          <rect x="413.85" y="444.37" width="33.23" height="53.63" rx="8" fill="url(#mobileBar)" opacity="1"/>
-          <text x="430.46" y="432.37" text-anchor="middle" class="count">9</text>
-          <text x="430.46" y="532" text-anchor="middle" class="month">Apr</text>
+          <rect x="413.85" y="486.08" width="33.23" height="11.92" rx="8" fill="url(#mobileBar)" opacity="1"/>
+          <text x="430.46" y="474.08" text-anchor="middle" class="count">2</text>
+          <text x="430.46" y="532" text-anchor="middle" class="month">May</text>
         </g>
         <g>
-          <rect x="459.08" y="486.08" width="33.23" height="11.92" rx="8" fill="url(#mobileBar)" opacity="1"/>
-          <text x="475.69" y="474.08" text-anchor="middle" class="count">2</text>
+          <rect x="459.08" y="480.12" width="33.23" height="17.88" rx="8" fill="url(#mobileBar)" opacity="1"/>
+          <text x="475.69" y="468.12" text-anchor="middle" class="count">3</text>
           <text x="475.69" y="532" text-anchor="middle" class="month"></text>
         </g>
         <g>
-          <rect x="504.31" y="480.12" width="33.23" height="17.88" rx="8" fill="url(#mobileBar)" opacity="1"/>
-          <text x="520.92" y="468.12" text-anchor="middle" class="count">3</text>
-          <text x="520.92" y="532" text-anchor="middle" class="month">Jun</text>
+          <rect x="504.31" y="206.00" width="33.23" height="292.00" rx="8" fill="url(#mobileBar)" opacity="1"/>
+          <text x="520.92" y="194.00" text-anchor="middle" class="count">49</text>
+          <text x="520.92" y="532" text-anchor="middle" class="month">Jul</text>
         </g>
         <g>
-          <rect x="549.54" y="206.00" width="33.23" height="292.00" rx="8" fill="url(#mobileBar)" opacity="1"/>
-          <text x="566.15" y="194.00" text-anchor="middle" class="count">49</text>
+          <rect x="549.54" y="488.00" width="33.23" height="10.00" rx="8" fill="url(#mobileBar)" opacity="1"/>
+          <text x="566.15" y="476.00" text-anchor="middle" class="count">1</text>
           <text x="566.15" y="532" text-anchor="middle" class="month"></text>
         </g>
         <g>
-          <rect x="594.77" y="488.00" width="33.23" height="10.00" rx="8" fill="url(#mobileBar)" opacity="1"/>
-          <text x="611.38" y="476.00" text-anchor="middle" class="count">1</text>
-          <text x="611.38" y="532" text-anchor="middle" class="month">Aug ’26</text>
+          <rect x="594.77" y="494.00" width="33.23" height="4.00" rx="8" fill="url(#mobileBar)" opacity="0.28"/>
+          <text x="611.38" y="482.00" text-anchor="middle" class="count">0</text>
+          <text x="611.38" y="532" text-anchor="middle" class="month">Sep ’26</text>
         </g>
-  <text x="38" y="570" class="note">Generated 2026-08-31 from public GitHub data</text>
+  <text x="38" y="570" class="note">Generated 2026-09-07 from public GitHub data</text>
 </svg>
