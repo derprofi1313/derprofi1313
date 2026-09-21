@@ -20,428 +20,428 @@
   <text x="112" y="101" class="month">Sep</text>
 
 
-    <text x="166" y="101" class="month">Oct</text>
 
 
 
-    <text x="238" y="101" class="month">Nov</text>
-
-
-
-
-    <text x="328" y="101" class="month">Dec</text>
-
-
-
-    <text x="400" y="101" class="month">Jan</text>
-
-
-
-    <text x="472" y="101" class="month">Feb</text>
-
-
-
-    <text x="544" y="101" class="month">Mar</text>
+    <text x="220" y="101" class="month">Nov</text>
 
 
 
 
-    <text x="634" y="101" class="month">Apr</text>
+    <text x="310" y="101" class="month">Dec</text>
 
 
 
-    <text x="706" y="101" class="month">May</text>
+    <text x="382" y="101" class="month">Jan</text>
 
 
 
-
-    <text x="796" y="101" class="month">Jun</text>
-
-
-
-    <text x="868" y="101" class="month">Jul</text>
+    <text x="454" y="101" class="month">Feb</text>
 
 
 
-    <text x="940" y="101" class="month">Aug</text>
+    <text x="526" y="101" class="month">Mar</text>
 
 
 
 
-    <text x="1030" y="101" class="month">Sep</text>
+    <text x="616" y="101" class="month">Apr</text>
+
+
+
+    <text x="688" y="101" class="month">May</text>
+
+
+
+
+    <text x="778" y="101" class="month">Jun</text>
+
+
+
+    <text x="850" y="101" class="month">Jul</text>
+
+
+
+    <text x="922" y="101" class="month">Aug</text>
+
+
+
+
+    <text x="1012" y="101" class="month">Sep</text>
+
 
   <text x="68" y="148" class="day">Mon</text>
   <text x="68" y="184" class="day">Wed</text>
   <text x="68" y="220" class="day">Fri</text>
   <g>
-    <rect data-date="2025-09-14" x="112" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-14: 0 contributions"/>
-    <rect data-date="2025-09-15" x="112" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-15: 0 contributions"/>
-    <rect data-date="2025-09-16" x="112" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-16: 0 contributions"/>
-    <rect data-date="2025-09-17" x="112" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-17: 0 contributions"/>
-    <rect data-date="2025-09-18" x="112" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-18: 0 contributions"/>
-    <rect data-date="2025-09-19" x="112" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-19: 0 contributions"/>
-    <rect data-date="2025-09-20" x="112" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-20: 0 contributions"/>
-    <rect data-date="2025-09-21" x="130" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-21: 0 contributions"/>
-    <rect data-date="2025-09-22" x="130" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-22: 0 contributions"/>
-    <rect data-date="2025-09-23" x="130" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-23: 0 contributions"/>
-    <rect data-date="2025-09-24" x="130" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-24: 0 contributions"/>
-    <rect data-date="2025-09-25" x="130" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-25: 0 contributions"/>
-    <rect data-date="2025-09-26" x="130" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-26: 0 contributions"/>
-    <rect data-date="2025-09-27" x="130" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-27: 0 contributions"/>
-    <rect data-date="2025-09-28" x="148" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-28: 0 contributions"/>
-    <rect data-date="2025-09-29" x="148" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-29: 0 contributions"/>
-    <rect data-date="2025-09-30" x="148" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-30: 0 contributions"/>
-    <rect data-date="2025-10-01" x="148" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-01: 0 contributions"/>
-    <rect data-date="2025-10-02" x="148" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-02: 0 contributions"/>
-    <rect data-date="2025-10-03" x="148" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-03: 0 contributions"/>
-    <rect data-date="2025-10-04" x="148" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-04: 0 contributions"/>
-    <rect data-date="2025-10-05" x="166" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-05: 0 contributions"/>
-    <rect data-date="2025-10-06" x="166" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-06: 0 contributions"/>
-    <rect data-date="2025-10-07" x="166" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-07: 0 contributions"/>
-    <rect data-date="2025-10-08" x="166" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-08: 0 contributions"/>
-    <rect data-date="2025-10-09" x="166" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-09: 0 contributions"/>
-    <rect data-date="2025-10-10" x="166" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-10: 0 contributions"/>
-    <rect data-date="2025-10-11" x="166" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-11: 0 contributions"/>
-    <rect data-date="2025-10-12" x="184" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-12: 0 contributions"/>
-    <rect data-date="2025-10-13" x="184" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-13: 0 contributions"/>
-    <rect data-date="2025-10-14" x="184" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-14: 0 contributions"/>
-    <rect data-date="2025-10-15" x="184" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-15: 0 contributions"/>
-    <rect data-date="2025-10-16" x="184" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-16: 0 contributions"/>
-    <rect data-date="2025-10-17" x="184" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-17: 0 contributions"/>
-    <rect data-date="2025-10-18" x="184" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-18: 0 contributions"/>
-    <rect data-date="2025-10-19" x="202" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-19: 0 contributions"/>
-    <rect data-date="2025-10-20" x="202" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-20: 0 contributions"/>
-    <rect data-date="2025-10-21" x="202" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-21: 0 contributions"/>
-    <rect data-date="2025-10-22" x="202" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-22: 0 contributions"/>
-    <rect data-date="2025-10-23" x="202" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-23: 0 contributions"/>
-    <rect data-date="2025-10-24" x="202" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-24: 0 contributions"/>
-    <rect data-date="2025-10-25" x="202" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-25: 0 contributions"/>
-    <rect data-date="2025-10-26" x="220" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-26: 0 contributions"/>
-    <rect data-date="2025-10-27" x="220" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-27: 0 contributions"/>
-    <rect data-date="2025-10-28" x="220" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-28: 0 contributions"/>
-    <rect data-date="2025-10-29" x="220" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-29: 0 contributions"/>
-    <rect data-date="2025-10-30" x="220" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-30: 0 contributions"/>
-    <rect data-date="2025-10-31" x="220" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-31: 0 contributions"/>
-    <rect data-date="2025-11-01" x="220" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-01: 0 contributions"/>
-    <rect data-date="2025-11-02" x="238" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-02: 0 contributions"/>
-    <rect data-date="2025-11-03" x="238" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-03: 0 contributions"/>
-    <rect data-date="2025-11-04" x="238" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-04: 0 contributions"/>
-    <rect data-date="2025-11-05" x="238" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-05: 0 contributions"/>
-    <rect data-date="2025-11-06" x="238" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-06: 0 contributions"/>
-    <rect data-date="2025-11-07" x="238" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-07: 0 contributions"/>
-    <rect data-date="2025-11-08" x="238" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-08: 0 contributions"/>
-    <rect data-date="2025-11-09" x="256" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-09: 0 contributions"/>
-    <rect data-date="2025-11-10" x="256" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-10: 0 contributions"/>
-    <rect data-date="2025-11-11" x="256" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-11: 0 contributions"/>
-    <rect data-date="2025-11-12" x="256" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-12: 0 contributions"/>
-    <rect data-date="2025-11-13" x="256" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-13: 0 contributions"/>
-    <rect data-date="2025-11-14" x="256" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-14: 0 contributions"/>
-    <rect data-date="2025-11-15" x="256" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-15: 0 contributions"/>
-    <rect data-date="2025-11-16" x="274" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-16: 0 contributions"/>
-    <rect data-date="2025-11-17" x="274" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-17: 0 contributions"/>
-    <rect data-date="2025-11-18" x="274" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-18: 0 contributions"/>
-    <rect data-date="2025-11-19" x="274" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-19: 0 contributions"/>
-    <rect data-date="2025-11-20" x="274" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-20: 0 contributions"/>
-    <rect data-date="2025-11-21" x="274" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-21: 0 contributions"/>
-    <rect data-date="2025-11-22" x="274" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-22: 0 contributions"/>
-    <rect data-date="2025-11-23" x="292" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-23: 0 contributions"/>
-    <rect data-date="2025-11-24" x="292" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-24: 0 contributions"/>
-    <rect data-date="2025-11-25" x="292" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-25: 0 contributions"/>
-    <rect data-date="2025-11-26" x="292" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-26: 0 contributions"/>
-    <rect data-date="2025-11-27" x="292" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-27: 0 contributions"/>
-    <rect data-date="2025-11-28" x="292" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-28: 0 contributions"/>
-    <rect data-date="2025-11-29" x="292" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-29: 0 contributions"/>
-    <rect data-date="2025-11-30" x="310" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-30: 0 contributions"/>
-    <rect data-date="2025-12-01" x="310" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-01: 0 contributions"/>
-    <rect data-date="2025-12-02" x="310" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-02: 0 contributions"/>
-    <rect data-date="2025-12-03" x="310" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-03: 0 contributions"/>
-    <rect data-date="2025-12-04" x="310" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-04: 0 contributions"/>
-    <rect data-date="2025-12-05" x="310" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-05: 0 contributions"/>
-    <rect data-date="2025-12-06" x="310" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-06: 0 contributions"/>
-    <rect data-date="2025-12-07" x="328" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-07: 0 contributions"/>
-    <rect data-date="2025-12-08" x="328" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-08: 0 contributions"/>
-    <rect data-date="2025-12-09" x="328" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-09: 0 contributions"/>
-    <rect data-date="2025-12-10" x="328" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-10: 0 contributions"/>
-    <rect data-date="2025-12-11" x="328" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-11: 0 contributions"/>
-    <rect data-date="2025-12-12" x="328" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-12: 0 contributions"/>
-    <rect data-date="2025-12-13" x="328" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-13: 0 contributions"/>
-    <rect data-date="2025-12-14" x="346" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-14: 0 contributions"/>
-    <rect data-date="2025-12-15" x="346" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-15: 0 contributions"/>
-    <rect data-date="2025-12-16" x="346" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-16: 0 contributions"/>
-    <rect data-date="2025-12-17" x="346" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-17: 0 contributions"/>
-    <rect data-date="2025-12-18" x="346" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-18: 0 contributions"/>
-    <rect data-date="2025-12-19" x="346" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-19: 0 contributions"/>
-    <rect data-date="2025-12-20" x="346" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-20: 0 contributions"/>
-    <rect data-date="2025-12-21" x="364" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-21: 0 contributions"/>
-    <rect data-date="2025-12-22" x="364" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-22: 0 contributions"/>
-    <rect data-date="2025-12-23" x="364" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-23: 0 contributions"/>
-    <rect data-date="2025-12-24" x="364" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-24: 0 contributions"/>
-    <rect data-date="2025-12-25" x="364" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-25: 0 contributions"/>
-    <rect data-date="2025-12-26" x="364" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-26: 0 contributions"/>
-    <rect data-date="2025-12-27" x="364" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-27: 0 contributions"/>
-    <rect data-date="2025-12-28" x="382" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-28: 0 contributions"/>
-    <rect data-date="2025-12-29" x="382" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-29: 0 contributions"/>
-    <rect data-date="2025-12-30" x="382" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-30: 0 contributions"/>
-    <rect data-date="2025-12-31" x="382" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-31: 0 contributions"/>
-    <rect data-date="2026-01-01" x="382" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-01: 0 contributions"/>
-    <rect data-date="2026-01-02" x="382" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-02: 0 contributions"/>
-    <rect data-date="2026-01-03" x="382" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-03: 0 contributions"/>
-    <rect data-date="2026-01-04" x="400" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-04: 0 contributions"/>
-    <rect data-date="2026-01-05" x="400" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-05: 0 contributions"/>
-    <rect data-date="2026-01-06" x="400" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-06: 0 contributions"/>
-    <rect data-date="2026-01-07" x="400" y="173" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-01-07: 2 contributions"/>
-    <rect data-date="2026-01-08" x="400" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-08: 0 contributions"/>
-    <rect data-date="2026-01-09" x="400" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-09: 0 contributions"/>
-    <rect data-date="2026-01-10" x="400" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-10: 0 contributions"/>
-    <rect data-date="2026-01-11" x="418" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-11: 0 contributions"/>
-    <rect data-date="2026-01-12" x="418" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-12: 0 contributions"/>
-    <rect data-date="2026-01-13" x="418" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-13: 0 contributions"/>
-    <rect data-date="2026-01-14" x="418" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-14: 0 contributions"/>
-    <rect data-date="2026-01-15" x="418" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-15: 0 contributions"/>
-    <rect data-date="2026-01-16" x="418" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-16: 0 contributions"/>
-    <rect data-date="2026-01-17" x="418" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-17: 0 contributions"/>
-    <rect data-date="2026-01-18" x="436" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-18: 0 contributions"/>
-    <rect data-date="2026-01-19" x="436" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-19: 0 contributions"/>
-    <rect data-date="2026-01-20" x="436" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-20: 0 contributions"/>
-    <rect data-date="2026-01-21" x="436" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-21: 0 contributions"/>
-    <rect data-date="2026-01-22" x="436" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-22: 0 contributions"/>
-    <rect data-date="2026-01-23" x="436" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-23: 0 contributions"/>
-    <rect data-date="2026-01-24" x="436" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-24: 0 contributions"/>
-    <rect data-date="2026-01-25" x="454" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-25: 0 contributions"/>
-    <rect data-date="2026-01-26" x="454" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-26: 0 contributions"/>
-    <rect data-date="2026-01-27" x="454" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-27: 0 contributions"/>
-    <rect data-date="2026-01-28" x="454" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-28: 0 contributions"/>
-    <rect data-date="2026-01-29" x="454" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-29: 0 contributions"/>
-    <rect data-date="2026-01-30" x="454" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-30: 0 contributions"/>
-    <rect data-date="2026-01-31" x="454" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-31: 0 contributions"/>
-    <rect data-date="2026-02-01" x="472" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-01: 0 contributions"/>
-    <rect data-date="2026-02-02" x="472" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-02: 0 contributions"/>
-    <rect data-date="2026-02-03" x="472" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-03: 0 contributions"/>
-    <rect data-date="2026-02-04" x="472" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-04: 0 contributions"/>
-    <rect data-date="2026-02-05" x="472" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-05: 0 contributions"/>
-    <rect data-date="2026-02-06" x="472" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-06: 0 contributions"/>
-    <rect data-date="2026-02-07" x="472" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-07: 0 contributions"/>
-    <rect data-date="2026-02-08" x="490" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-08: 0 contributions"/>
-    <rect data-date="2026-02-09" x="490" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-09: 0 contributions"/>
-    <rect data-date="2026-02-10" x="490" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-10: 0 contributions"/>
-    <rect data-date="2026-02-11" x="490" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-11: 0 contributions"/>
-    <rect data-date="2026-02-12" x="490" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-12: 0 contributions"/>
-    <rect data-date="2026-02-13" x="490" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-13: 0 contributions"/>
-    <rect data-date="2026-02-14" x="490" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-14: 0 contributions"/>
-    <rect data-date="2026-02-15" x="508" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-15: 0 contributions"/>
-    <rect data-date="2026-02-16" x="508" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-16: 0 contributions"/>
-    <rect data-date="2026-02-17" x="508" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-17: 0 contributions"/>
-    <rect data-date="2026-02-18" x="508" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-18: 0 contributions"/>
-    <rect data-date="2026-02-19" x="508" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-19: 0 contributions"/>
-    <rect data-date="2026-02-20" x="508" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-20: 0 contributions"/>
-    <rect data-date="2026-02-21" x="508" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-21: 0 contributions"/>
-    <rect data-date="2026-02-22" x="526" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-22: 0 contributions"/>
-    <rect data-date="2026-02-23" x="526" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-23: 0 contributions"/>
-    <rect data-date="2026-02-24" x="526" y="155" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-02-24: 1 contribution"/>
-    <rect data-date="2026-02-25" x="526" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-25: 0 contributions"/>
-    <rect data-date="2026-02-26" x="526" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-26: 0 contributions"/>
-    <rect data-date="2026-02-27" x="526" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-27: 0 contributions"/>
-    <rect data-date="2026-02-28" x="526" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-28: 0 contributions"/>
-    <rect data-date="2026-03-01" x="544" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-01: 0 contributions"/>
-    <rect data-date="2026-03-02" x="544" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-02: 0 contributions"/>
-    <rect data-date="2026-03-03" x="544" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-03: 0 contributions"/>
-    <rect data-date="2026-03-04" x="544" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-04: 0 contributions"/>
-    <rect data-date="2026-03-05" x="544" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-05: 0 contributions"/>
-    <rect data-date="2026-03-06" x="544" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-06: 0 contributions"/>
-    <rect data-date="2026-03-07" x="544" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-07: 0 contributions"/>
-    <rect data-date="2026-03-08" x="562" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-08: 0 contributions"/>
-    <rect data-date="2026-03-09" x="562" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-09: 0 contributions"/>
-    <rect data-date="2026-03-10" x="562" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-10: 0 contributions"/>
-    <rect data-date="2026-03-11" x="562" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-11: 0 contributions"/>
-    <rect data-date="2026-03-12" x="562" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-12: 0 contributions"/>
-    <rect data-date="2026-03-13" x="562" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-13: 0 contributions"/>
-    <rect data-date="2026-03-14" x="562" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-14: 0 contributions"/>
-    <rect data-date="2026-03-15" x="580" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-15: 0 contributions"/>
-    <rect data-date="2026-03-16" x="580" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-16: 0 contributions"/>
-    <rect data-date="2026-03-17" x="580" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-17: 0 contributions"/>
-    <rect data-date="2026-03-18" x="580" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-18: 0 contributions"/>
-    <rect data-date="2026-03-19" x="580" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-19: 0 contributions"/>
-    <rect data-date="2026-03-20" x="580" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-20: 0 contributions"/>
-    <rect data-date="2026-03-21" x="580" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-21: 0 contributions"/>
-    <rect data-date="2026-03-22" x="598" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-22: 0 contributions"/>
-    <rect data-date="2026-03-23" x="598" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-23: 0 contributions"/>
-    <rect data-date="2026-03-24" x="598" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-24: 0 contributions"/>
-    <rect data-date="2026-03-25" x="598" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-25: 0 contributions"/>
-    <rect data-date="2026-03-26" x="598" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-26: 0 contributions"/>
-    <rect data-date="2026-03-27" x="598" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-27: 0 contributions"/>
-    <rect data-date="2026-03-28" x="598" y="227" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-03-28: 1 contribution"/>
-    <rect data-date="2026-03-29" x="616" y="119" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-03-29: 1 contribution"/>
-    <rect data-date="2026-03-30" x="616" y="137" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-03-30: 1 contribution"/>
-    <rect data-date="2026-03-31" x="616" y="155" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-03-31: 1 contribution"/>
-    <rect data-date="2026-04-01" x="616" y="173" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-04-01: 7 contributions"/>
-    <rect data-date="2026-04-02" x="616" y="191" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-04-02: 2 contributions"/>
-    <rect data-date="2026-04-03" x="616" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-03: 0 contributions"/>
-    <rect data-date="2026-04-04" x="616" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-04: 0 contributions"/>
-    <rect data-date="2026-04-05" x="634" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-05: 0 contributions"/>
-    <rect data-date="2026-04-06" x="634" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-06: 0 contributions"/>
-    <rect data-date="2026-04-07" x="634" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-07: 0 contributions"/>
-    <rect data-date="2026-04-08" x="634" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-08: 0 contributions"/>
-    <rect data-date="2026-04-09" x="634" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-09: 0 contributions"/>
-    <rect data-date="2026-04-10" x="634" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-10: 0 contributions"/>
-    <rect data-date="2026-04-11" x="634" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-11: 0 contributions"/>
-    <rect data-date="2026-04-12" x="652" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-12: 0 contributions"/>
-    <rect data-date="2026-04-13" x="652" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-13: 0 contributions"/>
-    <rect data-date="2026-04-14" x="652" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-14: 0 contributions"/>
-    <rect data-date="2026-04-15" x="652" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-15: 0 contributions"/>
-    <rect data-date="2026-04-16" x="652" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-16: 0 contributions"/>
-    <rect data-date="2026-04-17" x="652" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-17: 0 contributions"/>
-    <rect data-date="2026-04-18" x="652" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-18: 0 contributions"/>
-    <rect data-date="2026-04-19" x="670" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-19: 0 contributions"/>
-    <rect data-date="2026-04-20" x="670" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-20: 0 contributions"/>
-    <rect data-date="2026-04-21" x="670" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-21: 0 contributions"/>
-    <rect data-date="2026-04-22" x="670" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-22: 0 contributions"/>
-    <rect data-date="2026-04-23" x="670" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-23: 0 contributions"/>
-    <rect data-date="2026-04-24" x="670" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-24: 0 contributions"/>
-    <rect data-date="2026-04-25" x="670" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-25: 0 contributions"/>
-    <rect data-date="2026-04-26" x="688" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-26: 0 contributions"/>
-    <rect data-date="2026-04-27" x="688" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-27: 0 contributions"/>
-    <rect data-date="2026-04-28" x="688" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-28: 0 contributions"/>
-    <rect data-date="2026-04-29" x="688" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-29: 0 contributions"/>
-    <rect data-date="2026-04-30" x="688" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-30: 0 contributions"/>
-    <rect data-date="2026-05-01" x="688" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-01: 0 contributions"/>
-    <rect data-date="2026-05-02" x="688" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-02: 0 contributions"/>
-    <rect data-date="2026-05-03" x="706" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-03: 0 contributions"/>
-    <rect data-date="2026-05-04" x="706" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-04: 0 contributions"/>
-    <rect data-date="2026-05-05" x="706" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-05: 0 contributions"/>
-    <rect data-date="2026-05-06" x="706" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-06: 0 contributions"/>
-    <rect data-date="2026-05-07" x="706" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-07: 0 contributions"/>
-    <rect data-date="2026-05-08" x="706" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-08: 0 contributions"/>
-    <rect data-date="2026-05-09" x="706" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-09: 0 contributions"/>
-    <rect data-date="2026-05-10" x="724" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-10: 0 contributions"/>
-    <rect data-date="2026-05-11" x="724" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-11: 0 contributions"/>
-    <rect data-date="2026-05-12" x="724" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-12: 0 contributions"/>
-    <rect data-date="2026-05-13" x="724" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-13: 0 contributions"/>
-    <rect data-date="2026-05-14" x="724" y="191" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-05-14: 1 contribution"/>
-    <rect data-date="2026-05-15" x="724" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-15: 0 contributions"/>
-    <rect data-date="2026-05-16" x="724" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-16: 0 contributions"/>
-    <rect data-date="2026-05-17" x="742" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-17: 0 contributions"/>
-    <rect data-date="2026-05-18" x="742" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-18: 0 contributions"/>
-    <rect data-date="2026-05-19" x="742" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-19: 0 contributions"/>
-    <rect data-date="2026-05-20" x="742" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-20: 0 contributions"/>
-    <rect data-date="2026-05-21" x="742" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-21: 0 contributions"/>
-    <rect data-date="2026-05-22" x="742" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-22: 0 contributions"/>
-    <rect data-date="2026-05-23" x="742" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-23: 0 contributions"/>
-    <rect data-date="2026-05-24" x="760" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-24: 0 contributions"/>
-    <rect data-date="2026-05-25" x="760" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-25: 0 contributions"/>
-    <rect data-date="2026-05-26" x="760" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-26: 0 contributions"/>
-    <rect data-date="2026-05-27" x="760" y="173" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-05-27: 1 contribution"/>
-    <rect data-date="2026-05-28" x="760" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-28: 0 contributions"/>
-    <rect data-date="2026-05-29" x="760" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-29: 0 contributions"/>
-    <rect data-date="2026-05-30" x="760" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-30: 0 contributions"/>
-    <rect data-date="2026-05-31" x="778" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-31: 0 contributions"/>
-    <rect data-date="2026-06-01" x="778" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-01: 0 contributions"/>
-    <rect data-date="2026-06-02" x="778" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-02: 0 contributions"/>
-    <rect data-date="2026-06-03" x="778" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-03: 0 contributions"/>
-    <rect data-date="2026-06-04" x="778" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-04: 0 contributions"/>
-    <rect data-date="2026-06-05" x="778" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-05: 0 contributions"/>
-    <rect data-date="2026-06-06" x="778" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-06: 0 contributions"/>
-    <rect data-date="2026-06-07" x="796" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-07: 0 contributions"/>
-    <rect data-date="2026-06-08" x="796" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-08: 0 contributions"/>
-    <rect data-date="2026-06-09" x="796" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-09: 0 contributions"/>
-    <rect data-date="2026-06-10" x="796" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-10: 0 contributions"/>
-    <rect data-date="2026-06-11" x="796" y="191" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-06-11: 1 contribution"/>
-    <rect data-date="2026-06-12" x="796" y="209" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-06-12: 1 contribution"/>
-    <rect data-date="2026-06-13" x="796" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-13: 0 contributions"/>
-    <rect data-date="2026-06-14" x="814" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-14: 0 contributions"/>
-    <rect data-date="2026-06-15" x="814" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-15: 0 contributions"/>
-    <rect data-date="2026-06-16" x="814" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-16: 0 contributions"/>
-    <rect data-date="2026-06-17" x="814" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-17: 0 contributions"/>
-    <rect data-date="2026-06-18" x="814" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-18: 0 contributions"/>
-    <rect data-date="2026-06-19" x="814" y="209" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-06-19: 1 contribution"/>
-    <rect data-date="2026-06-20" x="814" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-20: 0 contributions"/>
-    <rect data-date="2026-06-21" x="832" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-21: 0 contributions"/>
-    <rect data-date="2026-06-22" x="832" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-22: 0 contributions"/>
-    <rect data-date="2026-06-23" x="832" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-23: 0 contributions"/>
-    <rect data-date="2026-06-24" x="832" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-24: 0 contributions"/>
-    <rect data-date="2026-06-25" x="832" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-25: 0 contributions"/>
-    <rect data-date="2026-06-26" x="832" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-26: 0 contributions"/>
-    <rect data-date="2026-06-27" x="832" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-27: 0 contributions"/>
-    <rect data-date="2026-06-28" x="850" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-28: 0 contributions"/>
-    <rect data-date="2026-06-29" x="850" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-29: 0 contributions"/>
-    <rect data-date="2026-06-30" x="850" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-30: 0 contributions"/>
-    <rect data-date="2026-07-01" x="850" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-01: 0 contributions"/>
-    <rect data-date="2026-07-02" x="850" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-02: 0 contributions"/>
-    <rect data-date="2026-07-03" x="850" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-03: 0 contributions"/>
-    <rect data-date="2026-07-04" x="850" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-04: 0 contributions"/>
-    <rect data-date="2026-07-05" x="868" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-05: 0 contributions"/>
-    <rect data-date="2026-07-06" x="868" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-06: 0 contributions"/>
-    <rect data-date="2026-07-07" x="868" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-07: 0 contributions"/>
-    <rect data-date="2026-07-08" x="868" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-08: 0 contributions"/>
-    <rect data-date="2026-07-09" x="868" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-09: 0 contributions"/>
-    <rect data-date="2026-07-10" x="868" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-10: 0 contributions"/>
-    <rect data-date="2026-07-11" x="868" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-11: 0 contributions"/>
-    <rect data-date="2026-07-12" x="886" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-12: 0 contributions"/>
-    <rect data-date="2026-07-13" x="886" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-13: 0 contributions"/>
-    <rect data-date="2026-07-14" x="886" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-14: 0 contributions"/>
-    <rect data-date="2026-07-15" x="886" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-15: 0 contributions"/>
-    <rect data-date="2026-07-16" x="886" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-16: 0 contributions"/>
-    <rect data-date="2026-07-17" x="886" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-17: 0 contributions"/>
-    <rect data-date="2026-07-18" x="886" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-18: 0 contributions"/>
-    <rect data-date="2026-07-19" x="904" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-19: 0 contributions"/>
-    <rect data-date="2026-07-20" x="904" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-20: 0 contributions"/>
-    <rect data-date="2026-07-21" x="904" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-21: 0 contributions"/>
-    <rect data-date="2026-07-22" x="904" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-22: 0 contributions"/>
-    <rect data-date="2026-07-23" x="904" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-23: 0 contributions"/>
-    <rect data-date="2026-07-24" x="904" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-24: 0 contributions"/>
-    <rect data-date="2026-07-25" x="904" y="227" width="14" height="14" rx="3" fill="#6840A8" aria-label="2026-07-25: 8 contributions"/>
-    <rect data-date="2026-07-26" x="922" y="119" width="14" height="14" rx="3" fill="#6840A8" aria-label="2026-07-26: 12 contributions"/>
-    <rect data-date="2026-07-27" x="922" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-27: 0 contributions"/>
-    <rect data-date="2026-07-28" x="922" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-28: 0 contributions"/>
-    <rect data-date="2026-07-29" x="922" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-29: 0 contributions"/>
-    <rect data-date="2026-07-30" x="922" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-30: 0 contributions"/>
-    <rect data-date="2026-07-31" x="922" y="209" width="14" height="14" rx="3" fill="#FF5FA2" aria-label="2026-07-31: 29 contributions"/>
-    <rect data-date="2026-08-01" x="922" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-01: 0 contributions"/>
-    <rect data-date="2026-08-02" x="940" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-02: 0 contributions"/>
-    <rect data-date="2026-08-03" x="940" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-03: 0 contributions"/>
-    <rect data-date="2026-08-04" x="940" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-04: 0 contributions"/>
-    <rect data-date="2026-08-05" x="940" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-05: 0 contributions"/>
-    <rect data-date="2026-08-06" x="940" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-06: 0 contributions"/>
-    <rect data-date="2026-08-07" x="940" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-07: 0 contributions"/>
-    <rect data-date="2026-08-08" x="940" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-08: 0 contributions"/>
-    <rect data-date="2026-08-09" x="958" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-09: 0 contributions"/>
-    <rect data-date="2026-08-10" x="958" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-10: 0 contributions"/>
-    <rect data-date="2026-08-11" x="958" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-11: 0 contributions"/>
-    <rect data-date="2026-08-12" x="958" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-12: 0 contributions"/>
-    <rect data-date="2026-08-13" x="958" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-13: 0 contributions"/>
-    <rect data-date="2026-08-14" x="958" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-14: 0 contributions"/>
-    <rect data-date="2026-08-15" x="958" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-15: 0 contributions"/>
-    <rect data-date="2026-08-16" x="976" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-16: 0 contributions"/>
-    <rect data-date="2026-08-17" x="976" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-17: 0 contributions"/>
-    <rect data-date="2026-08-18" x="976" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-18: 0 contributions"/>
-    <rect data-date="2026-08-19" x="976" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-19: 0 contributions"/>
-    <rect data-date="2026-08-20" x="976" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-20: 0 contributions"/>
-    <rect data-date="2026-08-21" x="976" y="209" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-08-21: 1 contribution"/>
-    <rect data-date="2026-08-22" x="976" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-22: 0 contributions"/>
-    <rect data-date="2026-08-23" x="994" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-23: 0 contributions"/>
-    <rect data-date="2026-08-24" x="994" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-24: 0 contributions"/>
-    <rect data-date="2026-08-25" x="994" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-25: 0 contributions"/>
-    <rect data-date="2026-08-26" x="994" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-26: 0 contributions"/>
-    <rect data-date="2026-08-27" x="994" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-27: 0 contributions"/>
-    <rect data-date="2026-08-28" x="994" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-28: 0 contributions"/>
-    <rect data-date="2026-08-29" x="994" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-29: 0 contributions"/>
-    <rect data-date="2026-08-30" x="1012" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-30: 0 contributions"/>
-    <rect data-date="2026-08-31" x="1012" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-31: 0 contributions"/>
-    <rect data-date="2026-09-01" x="1012" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-01: 0 contributions"/>
-    <rect data-date="2026-09-02" x="1012" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-02: 0 contributions"/>
-    <rect data-date="2026-09-03" x="1012" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-03: 0 contributions"/>
-    <rect data-date="2026-09-04" x="1012" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-04: 0 contributions"/>
-    <rect data-date="2026-09-05" x="1012" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-05: 0 contributions"/>
-    <rect data-date="2026-09-06" x="1030" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-06: 0 contributions"/>
-    <rect data-date="2026-09-07" x="1030" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-07: 0 contributions"/>
-    <rect data-date="2026-09-08" x="1030" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-08: 0 contributions"/>
-    <rect data-date="2026-09-09" x="1030" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-09: 0 contributions"/>
-    <rect data-date="2026-09-10" x="1030" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-10: 0 contributions"/>
-    <rect data-date="2026-09-11" x="1030" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-11: 0 contributions"/>
-    <rect data-date="2026-09-12" x="1030" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-12: 0 contributions"/>
-    <rect data-date="2026-09-13" x="1048" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-13: 0 contributions"/>
-    <rect data-date="2026-09-14" x="1048" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-14: 0 contributions"/>
+    <rect data-date="2025-09-21" x="112" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-21: 0 contributions"/>
+    <rect data-date="2025-09-22" x="112" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-22: 0 contributions"/>
+    <rect data-date="2025-09-23" x="112" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-23: 0 contributions"/>
+    <rect data-date="2025-09-24" x="112" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-24: 0 contributions"/>
+    <rect data-date="2025-09-25" x="112" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-25: 0 contributions"/>
+    <rect data-date="2025-09-26" x="112" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-26: 0 contributions"/>
+    <rect data-date="2025-09-27" x="112" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-27: 0 contributions"/>
+    <rect data-date="2025-09-28" x="130" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-28: 0 contributions"/>
+    <rect data-date="2025-09-29" x="130" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-29: 0 contributions"/>
+    <rect data-date="2025-09-30" x="130" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-09-30: 0 contributions"/>
+    <rect data-date="2025-10-01" x="130" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-01: 0 contributions"/>
+    <rect data-date="2025-10-02" x="130" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-02: 0 contributions"/>
+    <rect data-date="2025-10-03" x="130" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-03: 0 contributions"/>
+    <rect data-date="2025-10-04" x="130" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-04: 0 contributions"/>
+    <rect data-date="2025-10-05" x="148" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-05: 0 contributions"/>
+    <rect data-date="2025-10-06" x="148" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-06: 0 contributions"/>
+    <rect data-date="2025-10-07" x="148" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-07: 0 contributions"/>
+    <rect data-date="2025-10-08" x="148" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-08: 0 contributions"/>
+    <rect data-date="2025-10-09" x="148" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-09: 0 contributions"/>
+    <rect data-date="2025-10-10" x="148" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-10: 0 contributions"/>
+    <rect data-date="2025-10-11" x="148" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-11: 0 contributions"/>
+    <rect data-date="2025-10-12" x="166" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-12: 0 contributions"/>
+    <rect data-date="2025-10-13" x="166" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-13: 0 contributions"/>
+    <rect data-date="2025-10-14" x="166" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-14: 0 contributions"/>
+    <rect data-date="2025-10-15" x="166" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-15: 0 contributions"/>
+    <rect data-date="2025-10-16" x="166" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-16: 0 contributions"/>
+    <rect data-date="2025-10-17" x="166" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-17: 0 contributions"/>
+    <rect data-date="2025-10-18" x="166" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-18: 0 contributions"/>
+    <rect data-date="2025-10-19" x="184" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-19: 0 contributions"/>
+    <rect data-date="2025-10-20" x="184" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-20: 0 contributions"/>
+    <rect data-date="2025-10-21" x="184" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-21: 0 contributions"/>
+    <rect data-date="2025-10-22" x="184" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-22: 0 contributions"/>
+    <rect data-date="2025-10-23" x="184" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-23: 0 contributions"/>
+    <rect data-date="2025-10-24" x="184" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-24: 0 contributions"/>
+    <rect data-date="2025-10-25" x="184" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-25: 0 contributions"/>
+    <rect data-date="2025-10-26" x="202" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-26: 0 contributions"/>
+    <rect data-date="2025-10-27" x="202" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-27: 0 contributions"/>
+    <rect data-date="2025-10-28" x="202" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-28: 0 contributions"/>
+    <rect data-date="2025-10-29" x="202" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-29: 0 contributions"/>
+    <rect data-date="2025-10-30" x="202" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-30: 0 contributions"/>
+    <rect data-date="2025-10-31" x="202" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-10-31: 0 contributions"/>
+    <rect data-date="2025-11-01" x="202" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-01: 0 contributions"/>
+    <rect data-date="2025-11-02" x="220" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-02: 0 contributions"/>
+    <rect data-date="2025-11-03" x="220" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-03: 0 contributions"/>
+    <rect data-date="2025-11-04" x="220" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-04: 0 contributions"/>
+    <rect data-date="2025-11-05" x="220" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-05: 0 contributions"/>
+    <rect data-date="2025-11-06" x="220" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-06: 0 contributions"/>
+    <rect data-date="2025-11-07" x="220" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-07: 0 contributions"/>
+    <rect data-date="2025-11-08" x="220" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-08: 0 contributions"/>
+    <rect data-date="2025-11-09" x="238" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-09: 0 contributions"/>
+    <rect data-date="2025-11-10" x="238" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-10: 0 contributions"/>
+    <rect data-date="2025-11-11" x="238" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-11: 0 contributions"/>
+    <rect data-date="2025-11-12" x="238" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-12: 0 contributions"/>
+    <rect data-date="2025-11-13" x="238" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-13: 0 contributions"/>
+    <rect data-date="2025-11-14" x="238" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-14: 0 contributions"/>
+    <rect data-date="2025-11-15" x="238" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-15: 0 contributions"/>
+    <rect data-date="2025-11-16" x="256" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-16: 0 contributions"/>
+    <rect data-date="2025-11-17" x="256" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-17: 0 contributions"/>
+    <rect data-date="2025-11-18" x="256" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-18: 0 contributions"/>
+    <rect data-date="2025-11-19" x="256" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-19: 0 contributions"/>
+    <rect data-date="2025-11-20" x="256" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-20: 0 contributions"/>
+    <rect data-date="2025-11-21" x="256" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-21: 0 contributions"/>
+    <rect data-date="2025-11-22" x="256" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-22: 0 contributions"/>
+    <rect data-date="2025-11-23" x="274" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-23: 0 contributions"/>
+    <rect data-date="2025-11-24" x="274" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-24: 0 contributions"/>
+    <rect data-date="2025-11-25" x="274" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-25: 0 contributions"/>
+    <rect data-date="2025-11-26" x="274" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-26: 0 contributions"/>
+    <rect data-date="2025-11-27" x="274" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-27: 0 contributions"/>
+    <rect data-date="2025-11-28" x="274" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-28: 0 contributions"/>
+    <rect data-date="2025-11-29" x="274" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-29: 0 contributions"/>
+    <rect data-date="2025-11-30" x="292" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-11-30: 0 contributions"/>
+    <rect data-date="2025-12-01" x="292" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-01: 0 contributions"/>
+    <rect data-date="2025-12-02" x="292" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-02: 0 contributions"/>
+    <rect data-date="2025-12-03" x="292" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-03: 0 contributions"/>
+    <rect data-date="2025-12-04" x="292" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-04: 0 contributions"/>
+    <rect data-date="2025-12-05" x="292" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-05: 0 contributions"/>
+    <rect data-date="2025-12-06" x="292" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-06: 0 contributions"/>
+    <rect data-date="2025-12-07" x="310" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-07: 0 contributions"/>
+    <rect data-date="2025-12-08" x="310" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-08: 0 contributions"/>
+    <rect data-date="2025-12-09" x="310" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-09: 0 contributions"/>
+    <rect data-date="2025-12-10" x="310" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-10: 0 contributions"/>
+    <rect data-date="2025-12-11" x="310" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-11: 0 contributions"/>
+    <rect data-date="2025-12-12" x="310" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-12: 0 contributions"/>
+    <rect data-date="2025-12-13" x="310" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-13: 0 contributions"/>
+    <rect data-date="2025-12-14" x="328" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-14: 0 contributions"/>
+    <rect data-date="2025-12-15" x="328" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-15: 0 contributions"/>
+    <rect data-date="2025-12-16" x="328" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-16: 0 contributions"/>
+    <rect data-date="2025-12-17" x="328" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-17: 0 contributions"/>
+    <rect data-date="2025-12-18" x="328" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-18: 0 contributions"/>
+    <rect data-date="2025-12-19" x="328" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-19: 0 contributions"/>
+    <rect data-date="2025-12-20" x="328" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-20: 0 contributions"/>
+    <rect data-date="2025-12-21" x="346" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-21: 0 contributions"/>
+    <rect data-date="2025-12-22" x="346" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-22: 0 contributions"/>
+    <rect data-date="2025-12-23" x="346" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-23: 0 contributions"/>
+    <rect data-date="2025-12-24" x="346" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-24: 0 contributions"/>
+    <rect data-date="2025-12-25" x="346" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-25: 0 contributions"/>
+    <rect data-date="2025-12-26" x="346" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-26: 0 contributions"/>
+    <rect data-date="2025-12-27" x="346" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-27: 0 contributions"/>
+    <rect data-date="2025-12-28" x="364" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-28: 0 contributions"/>
+    <rect data-date="2025-12-29" x="364" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-29: 0 contributions"/>
+    <rect data-date="2025-12-30" x="364" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-30: 0 contributions"/>
+    <rect data-date="2025-12-31" x="364" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2025-12-31: 0 contributions"/>
+    <rect data-date="2026-01-01" x="364" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-01: 0 contributions"/>
+    <rect data-date="2026-01-02" x="364" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-02: 0 contributions"/>
+    <rect data-date="2026-01-03" x="364" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-03: 0 contributions"/>
+    <rect data-date="2026-01-04" x="382" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-04: 0 contributions"/>
+    <rect data-date="2026-01-05" x="382" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-05: 0 contributions"/>
+    <rect data-date="2026-01-06" x="382" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-06: 0 contributions"/>
+    <rect data-date="2026-01-07" x="382" y="173" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-01-07: 2 contributions"/>
+    <rect data-date="2026-01-08" x="382" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-08: 0 contributions"/>
+    <rect data-date="2026-01-09" x="382" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-09: 0 contributions"/>
+    <rect data-date="2026-01-10" x="382" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-10: 0 contributions"/>
+    <rect data-date="2026-01-11" x="400" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-11: 0 contributions"/>
+    <rect data-date="2026-01-12" x="400" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-12: 0 contributions"/>
+    <rect data-date="2026-01-13" x="400" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-13: 0 contributions"/>
+    <rect data-date="2026-01-14" x="400" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-14: 0 contributions"/>
+    <rect data-date="2026-01-15" x="400" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-15: 0 contributions"/>
+    <rect data-date="2026-01-16" x="400" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-16: 0 contributions"/>
+    <rect data-date="2026-01-17" x="400" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-17: 0 contributions"/>
+    <rect data-date="2026-01-18" x="418" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-18: 0 contributions"/>
+    <rect data-date="2026-01-19" x="418" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-19: 0 contributions"/>
+    <rect data-date="2026-01-20" x="418" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-20: 0 contributions"/>
+    <rect data-date="2026-01-21" x="418" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-21: 0 contributions"/>
+    <rect data-date="2026-01-22" x="418" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-22: 0 contributions"/>
+    <rect data-date="2026-01-23" x="418" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-23: 0 contributions"/>
+    <rect data-date="2026-01-24" x="418" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-24: 0 contributions"/>
+    <rect data-date="2026-01-25" x="436" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-25: 0 contributions"/>
+    <rect data-date="2026-01-26" x="436" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-26: 0 contributions"/>
+    <rect data-date="2026-01-27" x="436" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-27: 0 contributions"/>
+    <rect data-date="2026-01-28" x="436" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-28: 0 contributions"/>
+    <rect data-date="2026-01-29" x="436" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-29: 0 contributions"/>
+    <rect data-date="2026-01-30" x="436" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-30: 0 contributions"/>
+    <rect data-date="2026-01-31" x="436" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-01-31: 0 contributions"/>
+    <rect data-date="2026-02-01" x="454" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-01: 0 contributions"/>
+    <rect data-date="2026-02-02" x="454" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-02: 0 contributions"/>
+    <rect data-date="2026-02-03" x="454" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-03: 0 contributions"/>
+    <rect data-date="2026-02-04" x="454" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-04: 0 contributions"/>
+    <rect data-date="2026-02-05" x="454" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-05: 0 contributions"/>
+    <rect data-date="2026-02-06" x="454" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-06: 0 contributions"/>
+    <rect data-date="2026-02-07" x="454" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-07: 0 contributions"/>
+    <rect data-date="2026-02-08" x="472" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-08: 0 contributions"/>
+    <rect data-date="2026-02-09" x="472" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-09: 0 contributions"/>
+    <rect data-date="2026-02-10" x="472" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-10: 0 contributions"/>
+    <rect data-date="2026-02-11" x="472" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-11: 0 contributions"/>
+    <rect data-date="2026-02-12" x="472" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-12: 0 contributions"/>
+    <rect data-date="2026-02-13" x="472" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-13: 0 contributions"/>
+    <rect data-date="2026-02-14" x="472" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-14: 0 contributions"/>
+    <rect data-date="2026-02-15" x="490" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-15: 0 contributions"/>
+    <rect data-date="2026-02-16" x="490" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-16: 0 contributions"/>
+    <rect data-date="2026-02-17" x="490" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-17: 0 contributions"/>
+    <rect data-date="2026-02-18" x="490" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-18: 0 contributions"/>
+    <rect data-date="2026-02-19" x="490" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-19: 0 contributions"/>
+    <rect data-date="2026-02-20" x="490" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-20: 0 contributions"/>
+    <rect data-date="2026-02-21" x="490" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-21: 0 contributions"/>
+    <rect data-date="2026-02-22" x="508" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-22: 0 contributions"/>
+    <rect data-date="2026-02-23" x="508" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-23: 0 contributions"/>
+    <rect data-date="2026-02-24" x="508" y="155" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-02-24: 1 contribution"/>
+    <rect data-date="2026-02-25" x="508" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-25: 0 contributions"/>
+    <rect data-date="2026-02-26" x="508" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-26: 0 contributions"/>
+    <rect data-date="2026-02-27" x="508" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-27: 0 contributions"/>
+    <rect data-date="2026-02-28" x="508" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-02-28: 0 contributions"/>
+    <rect data-date="2026-03-01" x="526" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-01: 0 contributions"/>
+    <rect data-date="2026-03-02" x="526" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-02: 0 contributions"/>
+    <rect data-date="2026-03-03" x="526" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-03: 0 contributions"/>
+    <rect data-date="2026-03-04" x="526" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-04: 0 contributions"/>
+    <rect data-date="2026-03-05" x="526" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-05: 0 contributions"/>
+    <rect data-date="2026-03-06" x="526" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-06: 0 contributions"/>
+    <rect data-date="2026-03-07" x="526" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-07: 0 contributions"/>
+    <rect data-date="2026-03-08" x="544" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-08: 0 contributions"/>
+    <rect data-date="2026-03-09" x="544" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-09: 0 contributions"/>
+    <rect data-date="2026-03-10" x="544" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-10: 0 contributions"/>
+    <rect data-date="2026-03-11" x="544" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-11: 0 contributions"/>
+    <rect data-date="2026-03-12" x="544" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-12: 0 contributions"/>
+    <rect data-date="2026-03-13" x="544" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-13: 0 contributions"/>
+    <rect data-date="2026-03-14" x="544" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-14: 0 contributions"/>
+    <rect data-date="2026-03-15" x="562" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-15: 0 contributions"/>
+    <rect data-date="2026-03-16" x="562" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-16: 0 contributions"/>
+    <rect data-date="2026-03-17" x="562" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-17: 0 contributions"/>
+    <rect data-date="2026-03-18" x="562" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-18: 0 contributions"/>
+    <rect data-date="2026-03-19" x="562" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-19: 0 contributions"/>
+    <rect data-date="2026-03-20" x="562" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-20: 0 contributions"/>
+    <rect data-date="2026-03-21" x="562" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-21: 0 contributions"/>
+    <rect data-date="2026-03-22" x="580" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-22: 0 contributions"/>
+    <rect data-date="2026-03-23" x="580" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-23: 0 contributions"/>
+    <rect data-date="2026-03-24" x="580" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-24: 0 contributions"/>
+    <rect data-date="2026-03-25" x="580" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-25: 0 contributions"/>
+    <rect data-date="2026-03-26" x="580" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-26: 0 contributions"/>
+    <rect data-date="2026-03-27" x="580" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-03-27: 0 contributions"/>
+    <rect data-date="2026-03-28" x="580" y="227" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-03-28: 1 contribution"/>
+    <rect data-date="2026-03-29" x="598" y="119" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-03-29: 1 contribution"/>
+    <rect data-date="2026-03-30" x="598" y="137" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-03-30: 1 contribution"/>
+    <rect data-date="2026-03-31" x="598" y="155" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-03-31: 1 contribution"/>
+    <rect data-date="2026-04-01" x="598" y="173" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-04-01: 7 contributions"/>
+    <rect data-date="2026-04-02" x="598" y="191" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-04-02: 2 contributions"/>
+    <rect data-date="2026-04-03" x="598" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-03: 0 contributions"/>
+    <rect data-date="2026-04-04" x="598" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-04: 0 contributions"/>
+    <rect data-date="2026-04-05" x="616" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-05: 0 contributions"/>
+    <rect data-date="2026-04-06" x="616" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-06: 0 contributions"/>
+    <rect data-date="2026-04-07" x="616" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-07: 0 contributions"/>
+    <rect data-date="2026-04-08" x="616" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-08: 0 contributions"/>
+    <rect data-date="2026-04-09" x="616" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-09: 0 contributions"/>
+    <rect data-date="2026-04-10" x="616" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-10: 0 contributions"/>
+    <rect data-date="2026-04-11" x="616" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-11: 0 contributions"/>
+    <rect data-date="2026-04-12" x="634" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-12: 0 contributions"/>
+    <rect data-date="2026-04-13" x="634" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-13: 0 contributions"/>
+    <rect data-date="2026-04-14" x="634" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-14: 0 contributions"/>
+    <rect data-date="2026-04-15" x="634" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-15: 0 contributions"/>
+    <rect data-date="2026-04-16" x="634" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-16: 0 contributions"/>
+    <rect data-date="2026-04-17" x="634" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-17: 0 contributions"/>
+    <rect data-date="2026-04-18" x="634" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-18: 0 contributions"/>
+    <rect data-date="2026-04-19" x="652" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-19: 0 contributions"/>
+    <rect data-date="2026-04-20" x="652" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-20: 0 contributions"/>
+    <rect data-date="2026-04-21" x="652" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-21: 0 contributions"/>
+    <rect data-date="2026-04-22" x="652" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-22: 0 contributions"/>
+    <rect data-date="2026-04-23" x="652" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-23: 0 contributions"/>
+    <rect data-date="2026-04-24" x="652" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-24: 0 contributions"/>
+    <rect data-date="2026-04-25" x="652" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-25: 0 contributions"/>
+    <rect data-date="2026-04-26" x="670" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-26: 0 contributions"/>
+    <rect data-date="2026-04-27" x="670" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-27: 0 contributions"/>
+    <rect data-date="2026-04-28" x="670" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-28: 0 contributions"/>
+    <rect data-date="2026-04-29" x="670" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-29: 0 contributions"/>
+    <rect data-date="2026-04-30" x="670" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-04-30: 0 contributions"/>
+    <rect data-date="2026-05-01" x="670" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-01: 0 contributions"/>
+    <rect data-date="2026-05-02" x="670" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-02: 0 contributions"/>
+    <rect data-date="2026-05-03" x="688" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-03: 0 contributions"/>
+    <rect data-date="2026-05-04" x="688" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-04: 0 contributions"/>
+    <rect data-date="2026-05-05" x="688" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-05: 0 contributions"/>
+    <rect data-date="2026-05-06" x="688" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-06: 0 contributions"/>
+    <rect data-date="2026-05-07" x="688" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-07: 0 contributions"/>
+    <rect data-date="2026-05-08" x="688" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-08: 0 contributions"/>
+    <rect data-date="2026-05-09" x="688" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-09: 0 contributions"/>
+    <rect data-date="2026-05-10" x="706" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-10: 0 contributions"/>
+    <rect data-date="2026-05-11" x="706" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-11: 0 contributions"/>
+    <rect data-date="2026-05-12" x="706" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-12: 0 contributions"/>
+    <rect data-date="2026-05-13" x="706" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-13: 0 contributions"/>
+    <rect data-date="2026-05-14" x="706" y="191" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-05-14: 1 contribution"/>
+    <rect data-date="2026-05-15" x="706" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-15: 0 contributions"/>
+    <rect data-date="2026-05-16" x="706" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-16: 0 contributions"/>
+    <rect data-date="2026-05-17" x="724" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-17: 0 contributions"/>
+    <rect data-date="2026-05-18" x="724" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-18: 0 contributions"/>
+    <rect data-date="2026-05-19" x="724" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-19: 0 contributions"/>
+    <rect data-date="2026-05-20" x="724" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-20: 0 contributions"/>
+    <rect data-date="2026-05-21" x="724" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-21: 0 contributions"/>
+    <rect data-date="2026-05-22" x="724" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-22: 0 contributions"/>
+    <rect data-date="2026-05-23" x="724" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-23: 0 contributions"/>
+    <rect data-date="2026-05-24" x="742" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-24: 0 contributions"/>
+    <rect data-date="2026-05-25" x="742" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-25: 0 contributions"/>
+    <rect data-date="2026-05-26" x="742" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-26: 0 contributions"/>
+    <rect data-date="2026-05-27" x="742" y="173" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-05-27: 1 contribution"/>
+    <rect data-date="2026-05-28" x="742" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-28: 0 contributions"/>
+    <rect data-date="2026-05-29" x="742" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-29: 0 contributions"/>
+    <rect data-date="2026-05-30" x="742" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-30: 0 contributions"/>
+    <rect data-date="2026-05-31" x="760" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-05-31: 0 contributions"/>
+    <rect data-date="2026-06-01" x="760" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-01: 0 contributions"/>
+    <rect data-date="2026-06-02" x="760" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-02: 0 contributions"/>
+    <rect data-date="2026-06-03" x="760" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-03: 0 contributions"/>
+    <rect data-date="2026-06-04" x="760" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-04: 0 contributions"/>
+    <rect data-date="2026-06-05" x="760" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-05: 0 contributions"/>
+    <rect data-date="2026-06-06" x="760" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-06: 0 contributions"/>
+    <rect data-date="2026-06-07" x="778" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-07: 0 contributions"/>
+    <rect data-date="2026-06-08" x="778" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-08: 0 contributions"/>
+    <rect data-date="2026-06-09" x="778" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-09: 0 contributions"/>
+    <rect data-date="2026-06-10" x="778" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-10: 0 contributions"/>
+    <rect data-date="2026-06-11" x="778" y="191" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-06-11: 1 contribution"/>
+    <rect data-date="2026-06-12" x="778" y="209" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-06-12: 1 contribution"/>
+    <rect data-date="2026-06-13" x="778" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-13: 0 contributions"/>
+    <rect data-date="2026-06-14" x="796" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-14: 0 contributions"/>
+    <rect data-date="2026-06-15" x="796" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-15: 0 contributions"/>
+    <rect data-date="2026-06-16" x="796" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-16: 0 contributions"/>
+    <rect data-date="2026-06-17" x="796" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-17: 0 contributions"/>
+    <rect data-date="2026-06-18" x="796" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-18: 0 contributions"/>
+    <rect data-date="2026-06-19" x="796" y="209" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-06-19: 1 contribution"/>
+    <rect data-date="2026-06-20" x="796" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-20: 0 contributions"/>
+    <rect data-date="2026-06-21" x="814" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-21: 0 contributions"/>
+    <rect data-date="2026-06-22" x="814" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-22: 0 contributions"/>
+    <rect data-date="2026-06-23" x="814" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-23: 0 contributions"/>
+    <rect data-date="2026-06-24" x="814" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-24: 0 contributions"/>
+    <rect data-date="2026-06-25" x="814" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-25: 0 contributions"/>
+    <rect data-date="2026-06-26" x="814" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-26: 0 contributions"/>
+    <rect data-date="2026-06-27" x="814" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-27: 0 contributions"/>
+    <rect data-date="2026-06-28" x="832" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-28: 0 contributions"/>
+    <rect data-date="2026-06-29" x="832" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-29: 0 contributions"/>
+    <rect data-date="2026-06-30" x="832" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-06-30: 0 contributions"/>
+    <rect data-date="2026-07-01" x="832" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-01: 0 contributions"/>
+    <rect data-date="2026-07-02" x="832" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-02: 0 contributions"/>
+    <rect data-date="2026-07-03" x="832" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-03: 0 contributions"/>
+    <rect data-date="2026-07-04" x="832" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-04: 0 contributions"/>
+    <rect data-date="2026-07-05" x="850" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-05: 0 contributions"/>
+    <rect data-date="2026-07-06" x="850" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-06: 0 contributions"/>
+    <rect data-date="2026-07-07" x="850" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-07: 0 contributions"/>
+    <rect data-date="2026-07-08" x="850" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-08: 0 contributions"/>
+    <rect data-date="2026-07-09" x="850" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-09: 0 contributions"/>
+    <rect data-date="2026-07-10" x="850" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-10: 0 contributions"/>
+    <rect data-date="2026-07-11" x="850" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-11: 0 contributions"/>
+    <rect data-date="2026-07-12" x="868" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-12: 0 contributions"/>
+    <rect data-date="2026-07-13" x="868" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-13: 0 contributions"/>
+    <rect data-date="2026-07-14" x="868" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-14: 0 contributions"/>
+    <rect data-date="2026-07-15" x="868" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-15: 0 contributions"/>
+    <rect data-date="2026-07-16" x="868" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-16: 0 contributions"/>
+    <rect data-date="2026-07-17" x="868" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-17: 0 contributions"/>
+    <rect data-date="2026-07-18" x="868" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-18: 0 contributions"/>
+    <rect data-date="2026-07-19" x="886" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-19: 0 contributions"/>
+    <rect data-date="2026-07-20" x="886" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-20: 0 contributions"/>
+    <rect data-date="2026-07-21" x="886" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-21: 0 contributions"/>
+    <rect data-date="2026-07-22" x="886" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-22: 0 contributions"/>
+    <rect data-date="2026-07-23" x="886" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-23: 0 contributions"/>
+    <rect data-date="2026-07-24" x="886" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-24: 0 contributions"/>
+    <rect data-date="2026-07-25" x="886" y="227" width="14" height="14" rx="3" fill="#6840A8" aria-label="2026-07-25: 8 contributions"/>
+    <rect data-date="2026-07-26" x="904" y="119" width="14" height="14" rx="3" fill="#6840A8" aria-label="2026-07-26: 12 contributions"/>
+    <rect data-date="2026-07-27" x="904" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-27: 0 contributions"/>
+    <rect data-date="2026-07-28" x="904" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-28: 0 contributions"/>
+    <rect data-date="2026-07-29" x="904" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-29: 0 contributions"/>
+    <rect data-date="2026-07-30" x="904" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-07-30: 0 contributions"/>
+    <rect data-date="2026-07-31" x="904" y="209" width="14" height="14" rx="3" fill="#FF5FA2" aria-label="2026-07-31: 29 contributions"/>
+    <rect data-date="2026-08-01" x="904" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-01: 0 contributions"/>
+    <rect data-date="2026-08-02" x="922" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-02: 0 contributions"/>
+    <rect data-date="2026-08-03" x="922" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-03: 0 contributions"/>
+    <rect data-date="2026-08-04" x="922" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-04: 0 contributions"/>
+    <rect data-date="2026-08-05" x="922" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-05: 0 contributions"/>
+    <rect data-date="2026-08-06" x="922" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-06: 0 contributions"/>
+    <rect data-date="2026-08-07" x="922" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-07: 0 contributions"/>
+    <rect data-date="2026-08-08" x="922" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-08: 0 contributions"/>
+    <rect data-date="2026-08-09" x="940" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-09: 0 contributions"/>
+    <rect data-date="2026-08-10" x="940" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-10: 0 contributions"/>
+    <rect data-date="2026-08-11" x="940" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-11: 0 contributions"/>
+    <rect data-date="2026-08-12" x="940" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-12: 0 contributions"/>
+    <rect data-date="2026-08-13" x="940" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-13: 0 contributions"/>
+    <rect data-date="2026-08-14" x="940" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-14: 0 contributions"/>
+    <rect data-date="2026-08-15" x="940" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-15: 0 contributions"/>
+    <rect data-date="2026-08-16" x="958" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-16: 0 contributions"/>
+    <rect data-date="2026-08-17" x="958" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-17: 0 contributions"/>
+    <rect data-date="2026-08-18" x="958" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-18: 0 contributions"/>
+    <rect data-date="2026-08-19" x="958" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-19: 0 contributions"/>
+    <rect data-date="2026-08-20" x="958" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-20: 0 contributions"/>
+    <rect data-date="2026-08-21" x="958" y="209" width="14" height="14" rx="3" fill="#39275F" aria-label="2026-08-21: 1 contribution"/>
+    <rect data-date="2026-08-22" x="958" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-22: 0 contributions"/>
+    <rect data-date="2026-08-23" x="976" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-23: 0 contributions"/>
+    <rect data-date="2026-08-24" x="976" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-24: 0 contributions"/>
+    <rect data-date="2026-08-25" x="976" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-25: 0 contributions"/>
+    <rect data-date="2026-08-26" x="976" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-26: 0 contributions"/>
+    <rect data-date="2026-08-27" x="976" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-27: 0 contributions"/>
+    <rect data-date="2026-08-28" x="976" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-28: 0 contributions"/>
+    <rect data-date="2026-08-29" x="976" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-29: 0 contributions"/>
+    <rect data-date="2026-08-30" x="994" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-30: 0 contributions"/>
+    <rect data-date="2026-08-31" x="994" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-08-31: 0 contributions"/>
+    <rect data-date="2026-09-01" x="994" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-01: 0 contributions"/>
+    <rect data-date="2026-09-02" x="994" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-02: 0 contributions"/>
+    <rect data-date="2026-09-03" x="994" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-03: 0 contributions"/>
+    <rect data-date="2026-09-04" x="994" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-04: 0 contributions"/>
+    <rect data-date="2026-09-05" x="994" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-05: 0 contributions"/>
+    <rect data-date="2026-09-06" x="1012" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-06: 0 contributions"/>
+    <rect data-date="2026-09-07" x="1012" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-07: 0 contributions"/>
+    <rect data-date="2026-09-08" x="1012" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-08: 0 contributions"/>
+    <rect data-date="2026-09-09" x="1012" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-09: 0 contributions"/>
+    <rect data-date="2026-09-10" x="1012" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-10: 0 contributions"/>
+    <rect data-date="2026-09-11" x="1012" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-11: 0 contributions"/>
+    <rect data-date="2026-09-12" x="1012" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-12: 0 contributions"/>
+    <rect data-date="2026-09-13" x="1030" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-13: 0 contributions"/>
+    <rect data-date="2026-09-14" x="1030" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-14: 0 contributions"/>
+    <rect data-date="2026-09-15" x="1030" y="155" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-15: 0 contributions"/>
+    <rect data-date="2026-09-16" x="1030" y="173" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-16: 0 contributions"/>
+    <rect data-date="2026-09-17" x="1030" y="191" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-17: 0 contributions"/>
+    <rect data-date="2026-09-18" x="1030" y="209" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-18: 0 contributions"/>
+    <rect data-date="2026-09-19" x="1030" y="227" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-19: 0 contributions"/>
+    <rect data-date="2026-09-20" x="1048" y="119" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-20: 0 contributions"/>
+    <rect data-date="2026-09-21" x="1048" y="137" width="14" height="14" rx="3" fill="#182235" aria-label="2026-09-21: 0 contributions"/>
   </g>
-  <text x="42" y="274" class="note">Generated 2026-09-14 from public GitHub data</text>
+  <text x="42" y="274" class="note">Generated 2026-09-21 from public GitHub data</text>
   <g transform="translate(914 264)">
     <text x="-42" y="10" class="note">quiet</text>
     <rect x="0" y="0" width="14" height="14" rx="3" fill="#182235"/><rect x="20" y="0" width="14" height="14" rx="3" fill="#39275F"/><rect x="40" y="0" width="14" height="14" rx="3" fill="#6840A8"/><rect x="60" y="0" width="14" height="14" rx="3" fill="#A04FCE"/><rect x="80" y="0" width="14" height="14" rx="3" fill="#FF5FA2"/>
