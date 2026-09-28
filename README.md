@@ -116,7 +116,7 @@ repository-owned renderer — no profile-view counter and no third-party stats
 card.</sub>
 
 <!-- profile-data:start -->
-**Current public snapshot:** 10 owned non-fork repositories · 7 stars · 71 contributions in the rolling 12 months. Generated 2026-09-21 from public GitHub data.
+**Current public snapshot:** 10 owned non-fork repositories · 7 stars · 71 contributions in the rolling 12 months. Generated 2026-09-28 from public GitHub data.
 <!-- profile-data:end -->
 
 ## ▰ Contribution signal
